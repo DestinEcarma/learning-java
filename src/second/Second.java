@@ -1,7 +1,7 @@
 package second;
 
-import IO.CLI;
-import MathOp.Op;
+import io.CLI;
+import math.Op;
 
 public class Second {
     public static void main(String[] args) {
