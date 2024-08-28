@@ -1,6 +1,6 @@
 package MathOp;
 
-public class ArithmeticOp {
+public class Op {
     public static double add(double a, double b) {
         return a + b;
     }

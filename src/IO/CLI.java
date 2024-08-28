@@ -3,7 +3,7 @@ package IO;
 import java.util.*;
 
 public class CLI {
-    static Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
     
     public static int scanInt(String description) {
         if (description != null) {
