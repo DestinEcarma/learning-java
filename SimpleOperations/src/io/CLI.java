@@ -1,9 +1,9 @@
-package IO;
+package io;
 
 import java.util.*;
 
 public class CLI {
-    private static Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in);
     
     public static int scanInt(String description) {
         if (description != null) {

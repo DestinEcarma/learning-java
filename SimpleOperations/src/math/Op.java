@@ -1,4 +1,4 @@
-package MathOp;
+package math;
 
 public class Op {
     public static double add(double a, double b) {
